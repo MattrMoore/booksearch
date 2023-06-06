@@ -9,7 +9,7 @@ import {
   InMemoryCache, 
   createHttpLink
  } from '@apollo/client';
-import { setContext } from '@apollo-link-context';
+import { setContext } from '@apollo/client/link/context';
 
 
 

@@ -14,9 +14,5 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  },
-  "dependencies": {
-    "apollo-link-context": "^1.0.20",
-    "react": "^18.2.0"
   }
 }
